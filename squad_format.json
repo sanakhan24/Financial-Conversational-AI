@@ -1,0 +1,4104 @@
+{
+    "data": [
+        {
+            "title": "adjusted net earnings available to common shareholders and adjusted diluted net earnings per common share",
+            "paragraphs": [
+                {
+                    "context": "The Cash flows from (used in) operating activities for Retail in 2024 is $1,829.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Retail in 2024?",
+                            "id": 219,
+                            "answers": [
+                                {
+                                    "text": "$1,829.00",
+                                    "answer_start": 73
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cash flows from (used in) operating activities for Financial Services in 2024 is $75.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Financial Services in 2024?",
+                            "id": 220,
+                            "answers": [
+                                {
+                                    "text": "$75.00",
+                                    "answer_start": 85
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cash flows from (used in) operating activities for Eliminations in 2024 is $54.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Eliminations in 2024?",
+                            "id": 221,
+                            "answers": [
+                                {
+                                    "text": "$54.00",
+                                    "answer_start": 79
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Cash flows from (used in) operating activities for 2024 is $1,958.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Cash flows from (used in) operating activities for 2024?",
+                            "id": 222,
+                            "answers": [
+                                {
+                                    "text": "$1,958.00",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cash flows from (used in) operating activities for Retail in 2023 is $1,898.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Retail in 2023?",
+                            "id": 223,
+                            "answers": [
+                                {
+                                    "text": "$1,898.00",
+                                    "answer_start": 73
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cash flows from (used in) operating activities for Financial Services in 2023 is $107.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Financial Services in 2023?",
+                            "id": 224,
+                            "answers": [
+                                {
+                                    "text": "$107.00",
+                                    "answer_start": 85
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cash flows from (used in) operating activities for Eliminations in 2023 is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cash flows from (used in) operating activities for Eliminations in 2023?",
+                            "id": 225,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 79
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Cash flows from (used in) operating activities for 2023 is $2,045.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Cash flows from (used in) operating activities for 2023?",
+                            "id": 226,
+                            "answers": [
+                                {
+                                    "text": "$2,045.00",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Capital investments(ii) for Retail in 2024 is $675.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Capital investments(ii) for Retail in 2024?",
+                            "id": 227,
+                            "answers": [
+                                {
+                                    "text": "$675.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Capital investments(ii) for Financial Services in 2024 is $15.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Capital investments(ii) for Financial Services in 2024?",
+                            "id": 228,
+                            "answers": [
+                                {
+                                    "text": "$15.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Less: Capital investments(ii) for 2024 is $690.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Less: Capital investments(ii) for 2024?",
+                            "id": 229,
+                            "answers": [
+                                {
+                                    "text": "$690.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Capital investments(ii) for Retail in 2023 is $681.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Capital investments(ii) for Retail in 2023?",
+                            "id": 230,
+                            "answers": [
+                                {
+                                    "text": "$681.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Capital investments(ii) for Financial Services in 2023 is $14.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Capital investments(ii) for Financial Services in 2023?",
+                            "id": 231,
+                            "answers": [
+                                {
+                                    "text": "$14.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Less: Capital investments(ii) for 2023 is $695.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Less: Capital investments(ii) for 2023?",
+                            "id": 232,
+                            "answers": [
+                                {
+                                    "text": "$695.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Interest paid(i) for Retail in 2024 is $94.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Interest paid(i) for Retail in 2024?",
+                            "id": 233,
+                            "answers": [
+                                {
+                                    "text": "$94.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Interest paid(i) for Eliminations in 2024 is $54.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Interest paid(i) for Eliminations in 2024?",
+                            "id": 234,
+                            "answers": [
+                                {
+                                    "text": "$54.00",
+                                    "answer_start": 49
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Interest paid(i) for 2024 is $148.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Interest paid(i) for 2024?",
+                            "id": 235,
+                            "answers": [
+                                {
+                                    "text": "$148.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Interest paid(i) for Retail in 2023 is $82.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Interest paid(i) for Retail in 2023?",
+                            "id": 236,
+                            "answers": [
+                                {
+                                    "text": "$82.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Interest paid(i) for Eliminations in 2023 is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Interest paid(i) for Eliminations in 2023?",
+                            "id": 237,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 49
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Interest paid(i) for 2023 is $122.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Interest paid(i) for 2023?",
+                            "id": 238,
+                            "answers": [
+                                {
+                                    "text": "$122.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Lease payments, net for Retail in 2024 is $498.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Lease payments, net for Retail in 2024?",
+                            "id": 239,
+                            "answers": [
+                                {
+                                    "text": "$498.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Lease payments, net for 2024 is $498.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Lease payments, net for 2024?",
+                            "id": 240,
+                            "answers": [
+                                {
+                                    "text": "$498.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Lease payments, net for Retail in 2023 is $472.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Lease payments, net for Retail in 2023?",
+                            "id": 241,
+                            "answers": [
+                                {
+                                    "text": "$472.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Lease payments, net for 2023 is $472.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Lease payments, net for 2023?",
+                            "id": 242,
+                            "answers": [
+                                {
+                                    "text": "$472.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Free cash flow for Retail in 2024 is $562.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Free cash flow for Retail in 2024?",
+                            "id": 243,
+                            "answers": [
+                                {
+                                    "text": "$562.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Free cash flow for Financial Services in 2024 is $60.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Free cash flow for Financial Services in 2024?",
+                            "id": 244,
+                            "answers": [
+                                {
+                                    "text": "$60.00",
+                                    "answer_start": 53
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Free cash flow for 2024 is $622.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Free cash flow for 2024?",
+                            "id": 245,
+                            "answers": [
+                                {
+                                    "text": "$622.00",
+                                    "answer_start": 37
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Free cash flow for Retail in 2023 is $663.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Free cash flow for Retail in 2023?",
+                            "id": 246,
+                            "answers": [
+                                {
+                                    "text": "$663.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Free cash flow for Financial Services in 2023 is $93.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Free cash flow for Financial Services in 2023?",
+                            "id": 247,
+                            "answers": [
+                                {
+                                    "text": "$93.00",
+                                    "answer_start": 53
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Free cash flow for 2023 is $756.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Free cash flow for 2023?",
+                            "id": 248,
+                            "answers": [
+                                {
+                                    "text": "$756.00",
+                                    "answer_start": 37
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "consolidated and segment results of operations",
+            "paragraphs": [
+                {
+                    "context": "The Revenue for Retail in 2024 is $18,259.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Retail in 2024?",
+                            "id": 0,
+                            "answers": [
+                                {
+                                    "text": "$18,259.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Financial Services in 2024 is $382.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Financial Services in 2024?",
+                            "id": 1,
+                            "answers": [
+                                {
+                                    "text": "$382.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Eliminations in 2024 is -$103.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Eliminations in 2024?",
+                            "id": 2,
+                            "answers": [
+                                {
+                                    "text": "($103.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Revenue for 2024 is $18,538.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Revenue for 2024?",
+                            "id": 3,
+                            "answers": [
+                                {
+                                    "text": "$18,538.00",
+                                    "answer_start": 30
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Retail in 2023 is $17,982.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Retail in 2023?",
+                            "id": 4,
+                            "answers": [
+                                {
+                                    "text": "$17,982.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Financial Services in 2023 is $379.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Financial Services in 2023?",
+                            "id": 5,
+                            "answers": [
+                                {
+                                    "text": "$379.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Eliminations in 2023 is -$96.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Eliminations in 2023?",
+                            "id": 6,
+                            "answers": [
+                                {
+                                    "text": "($96.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Revenue for 2023 is $18,265.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Revenue for 2023?",
+                            "id": 7,
+                            "answers": [
+                                {
+                                    "text": "$18,265.00",
+                                    "answer_start": 30
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Retail in 2024 is $5,642.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Retail in 2024?",
+                            "id": 8,
+                            "answers": [
+                                {
+                                    "text": "$5,642.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Financial Services in 2024 is $334.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Financial Services in 2024?",
+                            "id": 9,
+                            "answers": [
+                                {
+                                    "text": "$334.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Eliminations in 2024 is -$103.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Eliminations in 2024?",
+                            "id": 10,
+                            "answers": [
+                                {
+                                    "text": "($103.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit(2) for 2024 is $5,873.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit(2) for 2024?",
+                            "id": 11,
+                            "answers": [
+                                {
+                                    "text": "$5,873.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Retail in 2023 is $5,502.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Retail in 2023?",
+                            "id": 12,
+                            "answers": [
+                                {
+                                    "text": "$5,502.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Financial Services in 2023 is $325.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Financial Services in 2023?",
+                            "id": 13,
+                            "answers": [
+                                {
+                                    "text": "$325.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit(2) for Eliminations in 2023 is -$96.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit(2) for Eliminations in 2023?",
+                            "id": 14,
+                            "answers": [
+                                {
+                                    "text": "($96.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit(2) for 2023 is $5,731.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit(2) for 2023?",
+                            "id": 15,
+                            "answers": [
+                                {
+                                    "text": "$5,731.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit %(2) for Retail in 2024 is 30.9%.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit %(2) for Retail in 2024?",
+                            "id": 16,
+                            "answers": [
+                                {
+                                    "text": "30.90%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit %(2) for 2024 is 31.7%.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit %(2) for 2024?",
+                            "id": 17,
+                            "answers": [
+                                {
+                                    "text": "31.70%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit %(2) for Retail in 2023 is 30.6%.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit %(2) for Retail in 2023?",
+                            "id": 18,
+                            "answers": [
+                                {
+                                    "text": "30.60%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit %(2) for 2023 is 31.4%.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit %(2) for 2023?",
+                            "id": 19,
+                            "answers": [
+                                {
+                                    "text": "31.40%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Retail in 2024 is $1,091.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Retail in 2024?",
+                            "id": 20,
+                            "answers": [
+                                {
+                                    "text": "$1,091.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Financial Services in 2024 is $230.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Financial Services in 2024?",
+                            "id": 21,
+                            "answers": [
+                                {
+                                    "text": "$230.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Operating income for 2024 is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Operating income for 2024?",
+                            "id": 22,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Retail in 2023 is $1,006.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Retail in 2023?",
+                            "id": 23,
+                            "answers": [
+                                {
+                                    "text": "$1,006.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Financial Services in 2023 is $59.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Financial Services in 2023?",
+                            "id": 24,
+                            "answers": [
+                                {
+                                    "text": "$59.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Operating income for 2023 is $1,065.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Operating income for 2023?",
+                            "id": 25,
+                            "answers": [
+                                {
+                                    "text": "$1,065.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for Retail in 2024 is $1,246.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for Retail in 2024?",
+                            "id": 26,
+                            "answers": [
+                                {
+                                    "text": "$1,246.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for Financial Services in 2024 is $75.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for Financial Services in 2024?",
+                            "id": 27,
+                            "answers": [
+                                {
+                                    "text": "$75.00",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted operating income(2) for 2024 is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted operating income(2) for 2024?",
+                            "id": 28,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for Retail in 2023 is $1,141.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for Retail in 2023?",
+                            "id": 29,
+                            "answers": [
+                                {
+                                    "text": "$1,141.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for Financial Services in 2023 is $59.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for Financial Services in 2023?",
+                            "id": 30,
+                            "answers": [
+                                {
+                                    "text": "$59.00",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted operating income(2) for 2023 is $1,200.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted operating income(2) for 2023?",
+                            "id": 31,
+                            "answers": [
+                                {
+                                    "text": "$1,200.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA(2) for Retail in 2024 is $1,982.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA(2) for Retail in 2024?",
+                            "id": 32,
+                            "answers": [
+                                {
+                                    "text": "$1,982.00",
+                                    "answer_start": 45
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA(2) for Financial Services in 2024 is $87.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA(2) for Financial Services in 2024?",
+                            "id": 33,
+                            "answers": [
+                                {
+                                    "text": "$87.00",
+                                    "answer_start": 57
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA(2) for 2024 is $2,069.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA(2) for 2024?",
+                            "id": 34,
+                            "answers": [
+                                {
+                                    "text": "$2,069.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA(2) for Retail in 2023 is $1,852.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA(2) for Retail in 2023?",
+                            "id": 35,
+                            "answers": [
+                                {
+                                    "text": "$1,852.00",
+                                    "answer_start": 45
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA(2) for Financial Services in 2023 is $74.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA(2) for Financial Services in 2023?",
+                            "id": 36,
+                            "answers": [
+                                {
+                                    "text": "$74.00",
+                                    "answer_start": 57
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA(2) for 2023 is $1,926.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA(2) for 2023?",
+                            "id": 37,
+                            "answers": [
+                                {
+                                    "text": "$1,926.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA margin(2) for Retail in 2024 is 10.9%.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA margin(2) for Retail in 2024?",
+                            "id": 38,
+                            "answers": [
+                                {
+                                    "text": "10.90%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA margin(2) for 2024 is 11.2%.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA margin(2) for 2024?",
+                            "id": 39,
+                            "answers": [
+                                {
+                                    "text": "11.20%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA margin(2) for Retail in 2023 is 10.3%.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA margin(2) for Retail in 2023?",
+                            "id": 40,
+                            "answers": [
+                                {
+                                    "text": "10.30%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA margin(2) for 2023 is 10.5%.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA margin(2) for 2023?",
+                            "id": 41,
+                            "answers": [
+                                {
+                                    "text": "10.50%",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for Retail in 2024 is $209.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for Retail in 2024?",
+                            "id": 42,
+                            "answers": [
+                                {
+                                    "text": "$209.00",
+                                    "answer_start": 75
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for Financial Services in 2024 is $29.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for Financial Services in 2024?",
+                            "id": 43,
+                            "answers": [
+                                {
+                                    "text": "$29.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net interest expense and other financing charges for 2024 is $238.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net interest expense and other financing charges for 2024?",
+                            "id": 44,
+                            "answers": [
+                                {
+                                    "text": "$238.00",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for Retail in 2023 is $197.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for Retail in 2023?",
+                            "id": 45,
+                            "answers": [
+                                {
+                                    "text": "$197.00",
+                                    "answer_start": 75
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for Financial Services in 2023 is $37.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for Financial Services in 2023?",
+                            "id": 46,
+                            "answers": [
+                                {
+                                    "text": "$37.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net interest expense and other financing charges for 2023 is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net interest expense and other financing charges for 2023?",
+                            "id": 47,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charges(2) for Retail in 2024 is $209.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charges(2) for Retail in 2024?",
+                            "id": 48,
+                            "answers": [
+                                {
+                                    "text": "$209.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charges(2) for Financial Services in 2024 is $39.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charges(2) for Financial Services in 2024?",
+                            "id": 49,
+                            "answers": [
+                                {
+                                    "text": "$39.00",
+                                    "answer_start": 99
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted net interest expense and other financing charges(2) for 2024 is $248.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted net interest expense and other financing charges(2) for 2024?",
+                            "id": 50,
+                            "answers": [
+                                {
+                                    "text": "$248.00",
+                                    "answer_start": 83
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charges(2) for Retail in 2023 is $197.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charges(2) for Retail in 2023?",
+                            "id": 51,
+                            "answers": [
+                                {
+                                    "text": "$197.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charges(2) for Financial Services in 2023 is $37.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charges(2) for Financial Services in 2023?",
+                            "id": 52,
+                            "answers": [
+                                {
+                                    "text": "$37.00",
+                                    "answer_start": 99
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted net interest expense and other financing charges(2) for 2023 is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted net interest expense and other financing charges(2) for 2023?",
+                            "id": 53,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 83
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for Retail in 2024 is $882.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for Retail in 2024?",
+                            "id": 54,
+                            "answers": [
+                                {
+                                    "text": "$882.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for Financial Services in 2024 is $201.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for Financial Services in 2024?",
+                            "id": 55,
+                            "answers": [
+                                {
+                                    "text": "$201.00",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Earnings before income taxes for 2024 is $1,083.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Earnings before income taxes for 2024?",
+                            "id": 56,
+                            "answers": [
+                                {
+                                    "text": "$1,083.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for Retail in 2023 is $809.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for Retail in 2023?",
+                            "id": 57,
+                            "answers": [
+                                {
+                                    "text": "$809.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for Financial Services in 2023 is $22.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for Financial Services in 2023?",
+                            "id": 58,
+                            "answers": [
+                                {
+                                    "text": "$22.00",
+                                    "answer_start": 67
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Earnings before income taxes for 2023 is $831.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Earnings before income taxes for 2023?",
+                            "id": 59,
+                            "answers": [
+                                {
+                                    "text": "$831.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Income taxes for 2024 is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Income taxes for 2024?",
+                            "id": 60,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 35
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Income taxes for 2023 is $182.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Income taxes for 2023?",
+                            "id": 61,
+                            "answers": [
+                                {
+                                    "text": "$182.00",
+                                    "answer_start": 35
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted income taxes(2) for 2024 is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted income taxes(2) for 2024?",
+                            "id": 62,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 47
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted income taxes(2) for 2023 is $219.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted income taxes(2) for 2023?",
+                            "id": 63,
+                            "answers": [
+                                {
+                                    "text": "$219.00",
+                                    "answer_start": 47
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net earnings attributable to non-controlling interests for 2024 is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings attributable to non-controlling interests for 2024?",
+                            "id": 64,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net earnings attributable to non-controlling interests for 2023 is $25.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings attributable to non-controlling interests for 2023?",
+                            "id": 65,
+                            "answers": [
+                                {
+                                    "text": "$25.00",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Prescribed dividends on preferred shares in share capital for 2024 is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Prescribed dividends on preferred shares in share capital for 2024?",
+                            "id": 66,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 80
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Prescribed dividends on preferred shares in share capital for 2023 is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Prescribed dividends on preferred shares in share capital for 2023?",
+                            "id": 67,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 80
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net earnings available to common shareholders of the Company for 2024 is $777.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings available to common shareholders of the Company for 2024?",
+                            "id": 68,
+                            "answers": [
+                                {
+                                    "text": "$777.00",
+                                    "answer_start": 83
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net earnings available to common shareholders of the Company for 2023 is $621.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings available to common shareholders of the Company for 2023?",
+                            "id": 69,
+                            "answers": [
+                                {
+                                    "text": "$621.00",
+                                    "answer_start": 83
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted net earnings available to common shareholders of the Company(2) for 2024 is $767.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted net earnings available to common shareholders of the Company(2) for 2024?",
+                            "id": 70,
+                            "answers": [
+                                {
+                                    "text": "$767.00",
+                                    "answer_start": 95
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted net earnings available to common shareholders of the Company(2) for 2023 is $719.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted net earnings available to common shareholders of the Company(2) for 2023?",
+                            "id": 71,
+                            "answers": [
+                                {
+                                    "text": "$719.00",
+                                    "answer_start": 95
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Diluted net earnings per common share ($) for 2024 is $2.53.",
+                    "qas": [
+                        {
+                            "question": "What is the total Diluted net earnings per common share ($) for 2024?",
+                            "id": 72,
+                            "answers": [
+                                {
+                                    "text": "$2.53",
+                                    "answer_start": 64
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Diluted net earnings per common share ($) for 2023 is $1.95.",
+                    "qas": [
+                        {
+                            "question": "What is the total Diluted net earnings per common share ($) for 2023?",
+                            "id": 73,
+                            "answers": [
+                                {
+                                    "text": "$1.95",
+                                    "answer_start": 64
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted diluted net earnings per common share(2) ($) for 2024 is $2.50.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted diluted net earnings per common share(2) ($) for 2024?",
+                            "id": 74,
+                            "answers": [
+                                {
+                                    "text": "$2.50",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted diluted net earnings per common share(2) ($) for 2023 is $2.26.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted diluted net earnings per common share(2) ($) for 2023?",
+                            "id": 75,
+                            "answers": [
+                                {
+                                    "text": "$2.26",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Diluted weighted average common shares outstanding (in millions) for 2024 is $306.90.",
+                    "qas": [
+                        {
+                            "question": "What is the total Diluted weighted average common shares outstanding (in millions) for 2024?",
+                            "id": 76,
+                            "answers": [
+                                {
+                                    "text": "$306.90",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Diluted weighted average common shares outstanding (in millions) for 2023 is $318.40.",
+                    "qas": [
+                        {
+                            "question": "What is the total Diluted weighted average common shares outstanding (in millions) for 2023?",
+                            "id": 77,
+                            "answers": [
+                                {
+                                    "text": "$318.40",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "excerpt of non-gaap and other financial measures",
+            "paragraphs": [
+                {
+                    "context": "The EBITDA for 2024 under GAAP is $2,224.00.",
+                    "qas": [
+                        {
+                            "question": "What is the EBITDA for 2024 under GAAP?",
+                            "id": 78,
+                            "answers": [
+                                {
+                                    "text": "$2,224.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The EBITDA for 2023 under GAAP is $1,945.00.",
+                    "qas": [
+                        {
+                            "question": "What is the EBITDA for 2023 under GAAP?",
+                            "id": 79,
+                            "answers": [
+                                {
+                                    "text": "$1,945.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The EBITDA for 2024 under Non-GAAP is $2,069.00.",
+                    "qas": [
+                        {
+                            "question": "What is the EBITDA for 2024 under Non-GAAP?",
+                            "id": 80,
+                            "answers": [
+                                {
+                                    "text": "$2,069.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The EBITDA for 2023 under Non-GAAP is $1,926.00.",
+                    "qas": [
+                        {
+                            "question": "What is the EBITDA for 2023 under Non-GAAP?",
+                            "id": 81,
+                            "answers": [
+                                {
+                                    "text": "$1,926.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for 2024 under GAAP is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2024 under GAAP?",
+                            "id": 82,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 44
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for 2023 under GAAP is $1,065.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2023 under GAAP?",
+                            "id": 83,
+                            "answers": [
+                                {
+                                    "text": "$1,065.00",
+                                    "answer_start": 44
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for 2024 under Non-GAAP is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2024 under Non-GAAP?",
+                            "id": 84,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for 2023 under Non-GAAP is $1,200.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2023 under Non-GAAP?",
+                            "id": 85,
+                            "answers": [
+                                {
+                                    "text": "$1,200.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2024 under GAAP is $238.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2024 under GAAP?",
+                            "id": 86,
+                            "answers": [
+                                {
+                                    "text": "$238.00",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2023 under GAAP is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2023 under GAAP?",
+                            "id": 87,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2024 under Non-GAAP is $248.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2024 under Non-GAAP?",
+                            "id": 88,
+                            "answers": [
+                                {
+                                    "text": "$248.00",
+                                    "answer_start": 80
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2023 under Non-GAAP is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2023 under Non-GAAP?",
+                            "id": 89,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 80
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for 2024 under GAAP is $1,083.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for 2024 under GAAP?",
+                            "id": 90,
+                            "answers": [
+                                {
+                                    "text": "$1,083.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for 2023 under GAAP is $831.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for 2023 under GAAP?",
+                            "id": 91,
+                            "answers": [
+                                {
+                                    "text": "$831.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for 2024 under Non-GAAP is $1,073.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for 2024 under Non-GAAP?",
+                            "id": 92,
+                            "answers": [
+                                {
+                                    "text": "$1,073.00",
+                                    "answer_start": 60
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Earnings before income taxes for 2023 under Non-GAAP is $966.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Earnings before income taxes for 2023 under Non-GAAP?",
+                            "id": 93,
+                            "answers": [
+                                {
+                                    "text": "$966.00",
+                                    "answer_start": 60
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Deduct the following: Income taxes for 2024 under GAAP is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Deduct the following: Income taxes for 2024 under GAAP?",
+                            "id": 94,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 62
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Deduct the following: Income taxes for 2023 under GAAP is $182.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Deduct the following: Income taxes for 2023 under GAAP?",
+                            "id": 95,
+                            "answers": [
+                                {
+                                    "text": "$182.00",
+                                    "answer_start": 62
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Deduct the following: Income taxes for 2024 under Non-GAAP is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Deduct the following: Income taxes for 2024 under Non-GAAP?",
+                            "id": 96,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 66
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Deduct the following: Income taxes for 2023 under Non-GAAP is $219.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Deduct the following: Income taxes for 2023 under Non-GAAP?",
+                            "id": 97,
+                            "answers": [
+                                {
+                                    "text": "$219.00",
+                                    "answer_start": 66
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Non-controlling interests for 2024 under GAAP is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Non-controlling interests for 2024 under GAAP?",
+                            "id": 98,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 53
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Non-controlling interests for 2023 under GAAP is $25.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Non-controlling interests for 2023 under GAAP?",
+                            "id": 99,
+                            "answers": [
+                                {
+                                    "text": "$25.00",
+                                    "answer_start": 53
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Non-controlling interests for 2024 under Non-GAAP is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Non-controlling interests for 2024 under Non-GAAP?",
+                            "id": 100,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 57
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Non-controlling interests for 2023 under Non-GAAP is $25.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Non-controlling interests for 2023 under Non-GAAP?",
+                            "id": 101,
+                            "answers": [
+                                {
+                                    "text": "$25.00",
+                                    "answer_start": 57
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Prescribed dividends on preferred shares for 2024 under GAAP is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Prescribed dividends on preferred shares for 2024 under GAAP?",
+                            "id": 102,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Prescribed dividends on preferred shares for 2023 under GAAP is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Prescribed dividends on preferred shares for 2023 under GAAP?",
+                            "id": 103,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Prescribed dividends on preferred shares for 2024 under Non-GAAP is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Prescribed dividends on preferred shares for 2024 under Non-GAAP?",
+                            "id": 104,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 72
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Prescribed dividends on preferred shares for 2023 under Non-GAAP is $3.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Prescribed dividends on preferred shares for 2023 under Non-GAAP?",
+                            "id": 105,
+                            "answers": [
+                                {
+                                    "text": "$3.00",
+                                    "answer_start": 72
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net earnings available to common shareholders of the Company(i) for 2024 under GAAP is $777.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net earnings available to common shareholders of the Company(i) for 2024 under GAAP?",
+                            "id": 106,
+                            "answers": [
+                                {
+                                    "text": "$777.00",
+                                    "answer_start": 91
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net earnings available to common shareholders of the Company(i) for 2023 under GAAP is $621.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net earnings available to common shareholders of the Company(i) for 2023 under GAAP?",
+                            "id": 107,
+                            "answers": [
+                                {
+                                    "text": "$621.00",
+                                    "answer_start": 91
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net earnings available to common shareholders of the Company(i) for 2024 under Non-GAAP is $767.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net earnings available to common shareholders of the Company(i) for 2024 under Non-GAAP?",
+                            "id": 108,
+                            "answers": [
+                                {
+                                    "text": "$767.00",
+                                    "answer_start": 95
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net earnings available to common shareholders of the Company(i) for 2023 under Non-GAAP is $719.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net earnings available to common shareholders of the Company(i) for 2023 under Non-GAAP?",
+                            "id": 109,
+                            "answers": [
+                                {
+                                    "text": "$719.00",
+                                    "answer_start": 95
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted net earnings per common share ($) for 2024 under GAAP is $2.53.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted net earnings per common share ($) for 2024 under GAAP?",
+                            "id": 110,
+                            "answers": [
+                                {
+                                    "text": "$2.53",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted net earnings per common share ($) for 2023 under GAAP is $1.95.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted net earnings per common share ($) for 2023 under GAAP?",
+                            "id": 111,
+                            "answers": [
+                                {
+                                    "text": "$1.95",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted net earnings per common share ($) for 2024 under Non-GAAP is $2.50.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted net earnings per common share ($) for 2024 under Non-GAAP?",
+                            "id": 112,
+                            "answers": [
+                                {
+                                    "text": "$2.50",
+                                    "answer_start": 73
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted net earnings per common share ($) for 2023 under Non-GAAP is $2.26.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted net earnings per common share ($) for 2023 under Non-GAAP?",
+                            "id": 113,
+                            "answers": [
+                                {
+                                    "text": "$2.26",
+                                    "answer_start": 73
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted weighted average common shares (millions) for 2024 under GAAP is $306.90.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted weighted average common shares (millions) for 2024 under GAAP?",
+                            "id": 114,
+                            "answers": [
+                                {
+                                    "text": "$306.90",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted weighted average common shares (millions) for 2023 under GAAP is $318.40.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted weighted average common shares (millions) for 2023 under GAAP?",
+                            "id": 115,
+                            "answers": [
+                                {
+                                    "text": "$318.40",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted weighted average common shares (millions) for 2024 under Non-GAAP is $306.90.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted weighted average common shares (millions) for 2024 under Non-GAAP?",
+                            "id": 116,
+                            "answers": [
+                                {
+                                    "text": "$306.90",
+                                    "answer_start": 81
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted weighted average common shares (millions) for 2023 under Non-GAAP is $318.40.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted weighted average common shares (millions) for 2023 under Non-GAAP?",
+                            "id": 117,
+                            "answers": [
+                                {
+                                    "text": "$318.40",
+                                    "answer_start": 81
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "free cash flow",
+            "paragraphs": [
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2024 for As reported is $777.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2024 for As reported?",
+                            "id": 249,
+                            "answers": [
+                                {
+                                    "text": "$777.00",
+                                    "answer_start": 92
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2024 for As reported is $2.53.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2024 for As reported?",
+                            "id": 250,
+                            "answers": [
+                                {
+                                    "text": "$2.53",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for As reported is $621.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for As reported?",
+                            "id": 251,
+                            "answers": [
+                                {
+                                    "text": "$621.00",
+                                    "answer_start": 92
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for As reported is $1.95.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for As reported?",
+                            "id": 252,
+                            "answers": [
+                                {
+                                    "text": "$1.95",
+                                    "answer_start": 69
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2024 for and Lifemark is $115.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2024 for and Lifemark?",
+                            "id": 253,
+                            "answers": [
+                                {
+                                    "text": "$115.00",
+                                    "answer_start": 93
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2024 for and Lifemark is $0.38.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2024 for and Lifemark?",
+                            "id": 254,
+                            "answers": [
+                                {
+                                    "text": "$0.38",
+                                    "answer_start": 70
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for and Lifemark is $113.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for and Lifemark?",
+                            "id": 255,
+                            "answers": [
+                                {
+                                    "text": "$113.00",
+                                    "answer_start": 93
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for and Lifemark is $0.35.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for and Lifemark?",
+                            "id": 256,
+                            "answers": [
+                                {
+                                    "text": "$0.35",
+                                    "answer_start": 70
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for Gain on sale of non-operating properties is -$11.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for Gain on sale of non-operating properties?",
+                            "id": 257,
+                            "answers": [
+                                {
+                                    "text": "($11.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for Gain on sale of non-operating properties is -$0.03.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for Gain on sale of non-operating properties?",
+                            "id": 258,
+                            "answers": [
+                                {
+                                    "text": "($0.03)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for Fair value adjustment on fuel and foreign currency contracts is -$4.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for Fair value adjustment on fuel and foreign currency contracts?",
+                            "id": 259,
+                            "answers": [
+                                {
+                                    "text": "($4.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for Fair value adjustment on fuel and foreign currency contracts is -$0.01.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for Fair value adjustment on fuel and foreign currency contracts?",
+                            "id": 260,
+                            "answers": [
+                                {
+                                    "text": "($0.01)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2024 for Recovery related to PC Bank commodity tax matter is -$125.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2024 for Recovery related to PC Bank commodity tax matter?",
+                            "id": 261,
+                            "answers": [
+                                {
+                                    "text": "($125.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2024 for Recovery related to PC Bank commodity tax matter is -$0.41.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2024 for Recovery related to PC Bank commodity tax matter?",
+                            "id": 262,
+                            "answers": [
+                                {
+                                    "text": "($0.41)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2024 for Adjusting items is -$10.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2024 for Adjusting items?",
+                            "id": 263,
+                            "answers": [
+                                {
+                                    "text": "($10.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2024 for Adjusting items is -$0.03.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2024 for Adjusting items?",
+                            "id": 264,
+                            "answers": [
+                                {
+                                    "text": "($0.03)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for Adjusting items is $98.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for Adjusting items?",
+                            "id": 265,
+                            "answers": [
+                                {
+                                    "text": "$98.00",
+                                    "answer_start": 96
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for Adjusting items is $0.31.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for Adjusting items?",
+                            "id": 266,
+                            "answers": [
+                                {
+                                    "text": "$0.31",
+                                    "answer_start": 73
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2024 for Adjusted is $767.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2024 for Adjusted?",
+                            "id": 267,
+                            "answers": [
+                                {
+                                    "text": "$767.00",
+                                    "answer_start": 89
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2024 for Adjusted is $2.50.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2024 for Adjusted?",
+                            "id": 268,
+                            "answers": [
+                                {
+                                    "text": "$2.50",
+                                    "answer_start": 66
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net Earnings Available to Common Shareholders of the Company in 2023 for Adjusted is $719.00.",
+                    "qas": [
+                        {
+                            "question": "What are the Net Earnings Available to Common Shareholders of the Company in 2023 for Adjusted?",
+                            "id": 269,
+                            "answers": [
+                                {
+                                    "text": "$719.00",
+                                    "answer_start": 89
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Diluted Net Earnings Per Common Share in 2023 for Adjusted is $2.26.",
+                    "qas": [
+                        {
+                            "question": "What is the Diluted Net Earnings Per Common Share in 2023 for Adjusted?",
+                            "id": 270,
+                            "answers": [
+                                {
+                                    "text": "$2.26",
+                                    "answer_start": 66
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "net earnings attributable to shareholders of the Company",
+            "paragraphs": [
+                {
+                    "context": "The total Net earnings attributable to shareholders of the Company for 2024 is $780.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings attributable to shareholders of the Company for 2024?",
+                            "id": 169,
+                            "answers": [
+                                {
+                                    "text": "$780.00",
+                                    "answer_start": 79
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net earnings attributable to shareholders of the Company for 2023 is $624.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net earnings attributable to shareholders of the Company for 2023?",
+                            "id": 170,
+                            "answers": [
+                                {
+                                    "text": "$624.00",
+                                    "answer_start": 79
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Add impact of the following: Non-controlling interests for 2024 is $40.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Add impact of the following: Non-controlling interests for 2024?",
+                            "id": 171,
+                            "answers": [
+                                {
+                                    "text": "$40.00",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Add impact of the following: Non-controlling interests for 2023 is $25.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Add impact of the following: Non-controlling interests for 2023?",
+                            "id": 172,
+                            "answers": [
+                                {
+                                    "text": "$25.00",
+                                    "answer_start": 77
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net interest expense and other financing charges for 2024 is $238.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net interest expense and other financing charges for 2024?",
+                            "id": 173,
+                            "answers": [
+                                {
+                                    "text": "$238.00",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Net interest expense and other financing charges for 2023 is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Net interest expense and other financing charges for 2023?",
+                            "id": 174,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 71
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Income taxes for 2024 is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Income taxes for 2024?",
+                            "id": 175,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 35
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Income taxes for 2023 is $182.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Income taxes for 2023?",
+                            "id": 176,
+                            "answers": [
+                                {
+                                    "text": "$182.00",
+                                    "answer_start": 35
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Retail in 2024 is $1,091.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Retail in 2024?",
+                            "id": 177,
+                            "answers": [
+                                {
+                                    "text": "$1,091.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Financial Services in 2024 is $230.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Financial Services in 2024?",
+                            "id": 178,
+                            "answers": [
+                                {
+                                    "text": "$230.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Operating income for 2024 is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Operating income for 2024?",
+                            "id": 179,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Retail in 2023 is $1,006.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Retail in 2023?",
+                            "id": 180,
+                            "answers": [
+                                {
+                                    "text": "$1,006.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for Financial Services in 2023 is $59.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for Financial Services in 2023?",
+                            "id": 181,
+                            "answers": [
+                                {
+                                    "text": "$59.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Operating income for 2023 is $1,065.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Operating income for 2023?",
+                            "id": 182,
+                            "answers": [
+                                {
+                                    "text": "$1,065.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Shoppers Drug Mart and Lifemark for Retail in 2024 is $155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Shoppers Drug Mart and Lifemark for Retail in 2024?",
+                            "id": 183,
+                            "answers": [
+                                {
+                                    "text": "$155.00",
+                                    "answer_start": 58
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Shoppers Drug Mart and Lifemark for 2024 is $155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Shoppers Drug Mart and Lifemark for 2024?",
+                            "id": 184,
+                            "answers": [
+                                {
+                                    "text": "$155.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Shoppers Drug Mart and Lifemark for Retail in 2023 is $154.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Shoppers Drug Mart and Lifemark for Retail in 2023?",
+                            "id": 185,
+                            "answers": [
+                                {
+                                    "text": "$154.00",
+                                    "answer_start": 58
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Shoppers Drug Mart and Lifemark for 2023 is $154.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Shoppers Drug Mart and Lifemark for 2023?",
+                            "id": 186,
+                            "answers": [
+                                {
+                                    "text": "$154.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gain on sale of non-operating properties for Retail in 2023 is -$13.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gain on sale of non-operating properties for Retail in 2023?",
+                            "id": 187,
+                            "answers": [
+                                {
+                                    "text": "($13.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gain on sale of non-operating properties for 2023 is -$13.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gain on sale of non-operating properties for 2023?",
+                            "id": 188,
+                            "answers": [
+                                {
+                                    "text": "($13.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Fair value adjustment on fuel and foreign currency contracts for Retail in 2023 is -$6.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Fair value adjustment on fuel and foreign currency contracts for Retail in 2023?",
+                            "id": 189,
+                            "answers": [
+                                {
+                                    "text": "($6.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Fair value adjustment on fuel and foreign currency contracts for 2023 is -$6.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Fair value adjustment on fuel and foreign currency contracts for 2023?",
+                            "id": 190,
+                            "answers": [
+                                {
+                                    "text": "($6.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Recovery related to PC Bank commodity tax matter for Financial Services in 2024 is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Recovery related to PC Bank commodity tax matter for Financial Services in 2024?",
+                            "id": 191,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Recovery related to PC Bank commodity tax matter for 2024 is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Recovery related to PC Bank commodity tax matter for 2024?",
+                            "id": 192,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusting items for Retail in 2024 is $155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusting items for Retail in 2024?",
+                            "id": 193,
+                            "answers": [
+                                {
+                                    "text": "$155.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusting items for Financial Services in 2024 is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusting items for Financial Services in 2024?",
+                            "id": 194,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusting items for Retail in 2023 is $135.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusting items for Retail in 2023?",
+                            "id": 195,
+                            "answers": [
+                                {
+                                    "text": "$135.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusting items for 2023 is $135.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusting items for 2023?",
+                            "id": 196,
+                            "answers": [
+                                {
+                                    "text": "$135.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income for Retail in 2024 is $1,246.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income for Retail in 2024?",
+                            "id": 197,
+                            "answers": [
+                                {
+                                    "text": "$1,246.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income for Financial Services in 2024 is $75.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income for Financial Services in 2024?",
+                            "id": 198,
+                            "answers": [
+                                {
+                                    "text": "$75.00",
+                                    "answer_start": 64
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted operating income for 2024 is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted operating income for 2024?",
+                            "id": 199,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income for Retail in 2023 is $1,141.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income for Retail in 2023?",
+                            "id": 200,
+                            "answers": [
+                                {
+                                    "text": "$1,141.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income for Financial Services in 2023 is $59.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income for Financial Services in 2023?",
+                            "id": 201,
+                            "answers": [
+                                {
+                                    "text": "$59.00",
+                                    "answer_start": 64
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted operating income for 2023 is $1,200.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted operating income for 2023?",
+                            "id": 202,
+                            "answers": [
+                                {
+                                    "text": "$1,200.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Depreciation and amortization for Retail in 2024 is $891.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Depreciation and amortization for Retail in 2024?",
+                            "id": 203,
+                            "answers": [
+                                {
+                                    "text": "$891.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Depreciation and amortization for Financial Services in 2024 is $12.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Depreciation and amortization for Financial Services in 2024?",
+                            "id": 204,
+                            "answers": [
+                                {
+                                    "text": "$12.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Depreciation and amortization for 2024 is $903.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Depreciation and amortization for 2024?",
+                            "id": 205,
+                            "answers": [
+                                {
+                                    "text": "$903.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Depreciation and amortization for Retail in 2023 is $865.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Depreciation and amortization for Retail in 2023?",
+                            "id": 206,
+                            "answers": [
+                                {
+                                    "text": "$865.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Depreciation and amortization for Financial Services in 2023 is $15.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Depreciation and amortization for Financial Services in 2023?",
+                            "id": 207,
+                            "answers": [
+                                {
+                                    "text": "$15.00",
+                                    "answer_start": 68
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Depreciation and amortization for 2023 is $880.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Depreciation and amortization for 2023?",
+                            "id": 208,
+                            "answers": [
+                                {
+                                    "text": "$880.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for Retail in 2024 is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for Retail in 2024?",
+                            "id": 209,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2024 is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2024?",
+                            "id": 210,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for Retail in 2023 is -$154.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for Retail in 2023?",
+                            "id": 211,
+                            "answers": [
+                                {
+                                    "text": "($154.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2023 is -$154.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Less: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2023?",
+                            "id": 212,
+                            "answers": [
+                                {
+                                    "text": "($154.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA for Retail in 2024 is $1,982.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA for Retail in 2024?",
+                            "id": 213,
+                            "answers": [
+                                {
+                                    "text": "$1,982.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA for Financial Services in 2024 is $87.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA for Financial Services in 2024?",
+                            "id": 214,
+                            "answers": [
+                                {
+                                    "text": "$87.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA for 2024 is $2,069.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA for 2024?",
+                            "id": 215,
+                            "answers": [
+                                {
+                                    "text": "$2,069.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA for Retail in 2023 is $1,852.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA for Retail in 2023?",
+                            "id": 216,
+                            "answers": [
+                                {
+                                    "text": "$1,852.00",
+                                    "answer_start": 42
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted EBITDA for Financial Services in 2023 is $74.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted EBITDA for Financial Services in 2023?",
+                            "id": 217,
+                            "answers": [
+                                {
+                                    "text": "$74.00",
+                                    "answer_start": 54
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted EBITDA for 2023 is $1,926.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted EBITDA for 2023?",
+                            "id": 218,
+                            "answers": [
+                                {
+                                    "text": "$1,926.00",
+                                    "answer_start": 38
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "revenue and cost of sales measures",
+            "paragraphs": [
+                {
+                    "context": "The Revenue for Retail in 2024 is $18,259.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Retail in 2024?",
+                            "id": 139,
+                            "answers": [
+                                {
+                                    "text": "$18,259.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Financial Services in 2024 is $382.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Financial Services in 2024?",
+                            "id": 140,
+                            "answers": [
+                                {
+                                    "text": "$382.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Eliminations in 2024 is -$103.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Eliminations in 2024?",
+                            "id": 141,
+                            "answers": [
+                                {
+                                    "text": "($103.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Revenue for 2024 (16 weeks) is $18,538.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Revenue for 2024 (16 weeks)?",
+                            "id": 142,
+                            "answers": [
+                                {
+                                    "text": "$18,538.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Retail in 2023 is $17,982.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Retail in 2023?",
+                            "id": 143,
+                            "answers": [
+                                {
+                                    "text": "$17,982.00",
+                                    "answer_start": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Financial Services in 2023 is $379.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Financial Services in 2023?",
+                            "id": 144,
+                            "answers": [
+                                {
+                                    "text": "$379.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Revenue for Eliminations in 2023 is -$96.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Revenue for Eliminations in 2023?",
+                            "id": 145,
+                            "answers": [
+                                {
+                                    "text": "($96.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Revenue for 2023 (16 weeks) is $18,265.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Revenue for 2023 (16 weeks)?",
+                            "id": 146,
+                            "answers": [
+                                {
+                                    "text": "$18,265.00",
+                                    "answer_start": 41
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cost of sales for Retail in 2024 is $12,617.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cost of sales for Retail in 2024?",
+                            "id": 147,
+                            "answers": [
+                                {
+                                    "text": "$12,617.00",
+                                    "answer_start": 40
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cost of sales for Financial Services in 2024 is $48.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cost of sales for Financial Services in 2024?",
+                            "id": 148,
+                            "answers": [
+                                {
+                                    "text": "$48.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Cost of sales for 2024 (16 weeks) is $12,665.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Cost of sales for 2024 (16 weeks)?",
+                            "id": 149,
+                            "answers": [
+                                {
+                                    "text": "$12,665.00",
+                                    "answer_start": 47
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cost of sales for Retail in 2023 is $12,480.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cost of sales for Retail in 2023?",
+                            "id": 150,
+                            "answers": [
+                                {
+                                    "text": "$12,480.00",
+                                    "answer_start": 40
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Cost of sales for Financial Services in 2023 is $54.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Cost of sales for Financial Services in 2023?",
+                            "id": 151,
+                            "answers": [
+                                {
+                                    "text": "$54.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Cost of sales for 2023 (16 weeks) is $12,534.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Cost of sales for 2023 (16 weeks)?",
+                            "id": 152,
+                            "answers": [
+                                {
+                                    "text": "$12,534.00",
+                                    "answer_start": 47
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Retail in 2024 is $5,642.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Retail in 2024?",
+                            "id": 153,
+                            "answers": [
+                                {
+                                    "text": "$5,642.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Financial Services in 2024 is $334.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Financial Services in 2024?",
+                            "id": 154,
+                            "answers": [
+                                {
+                                    "text": "$334.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Eliminations in 2024 is -$103.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Eliminations in 2024?",
+                            "id": 155,
+                            "answers": [
+                                {
+                                    "text": "($103.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit for 2024 (16 weeks) is $5,873.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit for 2024 (16 weeks)?",
+                            "id": 156,
+                            "answers": [
+                                {
+                                    "text": "$5,873.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Retail in 2023 is $5,502.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Retail in 2023?",
+                            "id": 157,
+                            "answers": [
+                                {
+                                    "text": "$5,502.00",
+                                    "answer_start": 39
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Financial Services in 2023 is $325.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Financial Services in 2023?",
+                            "id": 158,
+                            "answers": [
+                                {
+                                    "text": "$325.00",
+                                    "answer_start": 51
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gross profit for Eliminations in 2023 is -$96.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gross profit for Eliminations in 2023?",
+                            "id": 159,
+                            "answers": [
+                                {
+                                    "text": "($96.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Gross profit for 2023 (16 weeks) is $5,731.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Gross profit for 2023 (16 weeks)?",
+                            "id": 160,
+                            "answers": [
+                                {
+                                    "text": "$5,731.00",
+                                    "answer_start": 46
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Retail in 2024 is $5,642.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Retail in 2024?",
+                            "id": 161,
+                            "answers": [
+                                {
+                                    "text": "$5,642.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Financial Services in 2024 is $334.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Financial Services in 2024?",
+                            "id": 162,
+                            "answers": [
+                                {
+                                    "text": "$334.00",
+                                    "answer_start": 60
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Eliminations in 2024 is -$103.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Eliminations in 2024?",
+                            "id": 163,
+                            "answers": [
+                                {
+                                    "text": "($103.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted gross profit for 2024 (16 weeks) is $5,873.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted gross profit for 2024 (16 weeks)?",
+                            "id": 164,
+                            "answers": [
+                                {
+                                    "text": "$5,873.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Retail in 2023 is $5,502.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Retail in 2023?",
+                            "id": 165,
+                            "answers": [
+                                {
+                                    "text": "$5,502.00",
+                                    "answer_start": 48
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Financial Services in 2023 is $325.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Financial Services in 2023?",
+                            "id": 166,
+                            "answers": [
+                                {
+                                    "text": "$325.00",
+                                    "answer_start": 60
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted gross profit for Eliminations in 2023 is -$96.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted gross profit for Eliminations in 2023?",
+                            "id": 167,
+                            "answers": [
+                                {
+                                    "text": "($96.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The total Adjusted gross profit for 2023 (16 weeks) is $5,731.00.",
+                    "qas": [
+                        {
+                            "question": "What is the total Adjusted gross profit for 2023 (16 weeks)?",
+                            "id": 168,
+                            "answers": [
+                                {
+                                    "text": "$5,731.00",
+                                    "answer_start": 55
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "summary of the company's adjusting items",
+            "paragraphs": [
+                {
+                    "context": "The Operating income for 2024 (16 weeks) is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2024 (16 weeks)?",
+                            "id": 118,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 44
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Operating income for 2023 (16 weeks) is $1,065.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Operating income for 2023 (16 weeks)?",
+                            "id": 119,
+                            "answers": [
+                                {
+                                    "text": "$1,065.00",
+                                    "answer_start": 44
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Add (deduct) impact of the following: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2024 (16 weeks) is $155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Add (deduct) impact of the following: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2024 (16 weeks)?",
+                            "id": 120,
+                            "answers": [
+                                {
+                                    "text": "$155.00",
+                                    "answer_start": 145
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Add (deduct) impact of the following: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2023 (16 weeks) is $154.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Add (deduct) impact of the following: Amortization of intangible assets acquired with Shoppers Drug Mart and Lifemark for 2023 (16 weeks)?",
+                            "id": 121,
+                            "answers": [
+                                {
+                                    "text": "$154.00",
+                                    "answer_start": 145
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Fair value adjustment on fuel and foreign currency contracts for 2023 (16 weeks) is -$6.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Fair value adjustment on fuel and foreign currency contracts for 2023 (16 weeks)?",
+                            "id": 122,
+                            "answers": [
+                                {
+                                    "text": "($6.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Gain on sale of non-operating properties for 2023 (16 weeks) is -$13.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Gain on sale of non-operating properties for 2023 (16 weeks)?",
+                            "id": 123,
+                            "answers": [
+                                {
+                                    "text": "($13.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Recovery related to PC Bank commodity tax matter for 2024 (16 weeks) is -$155.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Recovery related to PC Bank commodity tax matter for 2024 (16 weeks)?",
+                            "id": 124,
+                            "answers": [
+                                {
+                                    "text": "($155.00)",
+                                    "answer_start": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusting items for 2023 (16 weeks) is $135.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusting items for 2023 (16 weeks)?",
+                            "id": 125,
+                            "answers": [
+                                {
+                                    "text": "$135.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for 2024 (16 weeks) is $1,321.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for 2024 (16 weeks)?",
+                            "id": 126,
+                            "answers": [
+                                {
+                                    "text": "$1,321.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted operating income(2) for 2023 (16 weeks) is $1,200.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted operating income(2) for 2023 (16 weeks)?",
+                            "id": 127,
+                            "answers": [
+                                {
+                                    "text": "$1,200.00",
+                                    "answer_start": 56
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2024 (16 weeks) is $238.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2024 (16 weeks)?",
+                            "id": 128,
+                            "answers": [
+                                {
+                                    "text": "$238.00",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Net interest expense and other financing charges for 2023 (16 weeks) is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Net interest expense and other financing charges for 2023 (16 weeks)?",
+                            "id": 129,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 76
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Add: Recovery related to PC Bank commodity tax matter for 2024 (16 weeks) is $10.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Add: Recovery related to PC Bank commodity tax matter for 2024 (16 weeks)?",
+                            "id": 130,
+                            "answers": [
+                                {
+                                    "text": "$10.00",
+                                    "answer_start": 81
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charge(2) for 2024 (16 weeks) is $248.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charge(2) for 2024 (16 weeks)?",
+                            "id": 131,
+                            "answers": [
+                                {
+                                    "text": "$248.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted net interest expense and other financing charge(2) for 2023 (16 weeks) is $234.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted net interest expense and other financing charge(2) for 2023 (16 weeks)?",
+                            "id": 132,
+                            "answers": [
+                                {
+                                    "text": "$234.00",
+                                    "answer_start": 87
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Income taxes for 2024 (16 weeks) is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Income taxes for 2024 (16 weeks)?",
+                            "id": 133,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 40
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Income taxes for 2023 (16 weeks) is $182.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Income taxes for 2023 (16 weeks)?",
+                            "id": 134,
+                            "answers": [
+                                {
+                                    "text": "$182.00",
+                                    "answer_start": 40
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Add the impact of the following: Tax impact of items included in adjusted earnings before taxes for 2023 (16 weeks) is $37.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Add the impact of the following: Tax impact of items included in adjusted earnings before taxes for 2023 (16 weeks)?",
+                            "id": 135,
+                            "answers": [
+                                {
+                                    "text": "$37.00",
+                                    "answer_start": 123
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusting items for 2023 (16 weeks) is $37.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusting items for 2023 (16 weeks)?",
+                            "id": 136,
+                            "answers": [
+                                {
+                                    "text": "$37.00",
+                                    "answer_start": 43
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted income taxes(2) for 2024 (16 weeks) is $263.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted income taxes(2) for 2024 (16 weeks)?",
+                            "id": 137,
+                            "answers": [
+                                {
+                                    "text": "$263.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": "The Adjusted income taxes(2) for 2023 (16 weeks) is $219.00.",
+                    "qas": [
+                        {
+                            "question": "What is the Adjusted income taxes(2) for 2023 (16 weeks)?",
+                            "id": 138,
+                            "answers": [
+                                {
+                                    "text": "$219.00",
+                                    "answer_start": 52
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
